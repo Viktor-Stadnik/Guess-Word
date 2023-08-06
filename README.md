@@ -15,9 +15,9 @@ ____
 4. Build and run the sample.
 ____
 ### Preview:
-<img src= "https://github.com/Viktor-Stadnik/Guess-Word/assets/90702060/8fa8dbf3-4059-459d-9fb8-108b39ba6bd9" width="325">
-<img src= "https://github.com/Viktor-Stadnik/Guess-Word/assets/90702060/4e966b5d-3b54-4024-ba19-5c7c177e9d5e" width="325">
-<img src= "https://github.com/Viktor-Stadnik/Guess-Word/assets/90702060/f039542b-3315-4ba7-9113-bf2081646eac" width="325">
+<img src= "https://github.com/Viktor-Stadnik/Guess-Word/assets/90702060/8fa8dbf3-4059-459d-9fb8-108b39ba6bd9" width="250">
+<img src= "https://github.com/Viktor-Stadnik/Guess-Word/assets/90702060/4e966b5d-3b54-4024-ba19-5c7c177e9d5e" width="250">
+<img src= "https://github.com/Viktor-Stadnik/Guess-Word/assets/90702060/f039542b-3315-4ba7-9113-bf2081646eac" width="250">
 
 
 [Up](#anchor)
